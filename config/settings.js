@@ -62,10 +62,14 @@ const GALLERY_PHOTOS = [
    Setiap string adalah satu paragraf.
    Bisa ditambah atau dikurangi paragrafnya.                       */
 const LETTER_PARAGRAPHS = [
-  "Happy Birthday Mas Tiar. Sayang, hari ini angka usiamu bertambah satu dan doaku turut serta memelukmu. Terima kasih sudah menjadi rumah untuk aku. Terimakasih selalu membuat aku terasa mudah bahagia dan dicintai tanpa rasa rumit.",
-  "Semoga Allah mengizinkan semesta untuk selalu menuntun, melindungi, dan menjagamu dimanapun Mas berada. Semoga hatimu selalu diberi kekuatan, ketenangan, kebahagiaan yang tidak ada habisnya, dan dikelilingi cinta yang tak pernah ada batasnya.",
-  "Semoga hal-hal baik selalu menjadi sahabat dalam keseharian Mas. Semoga segala usaha membahagiakan orang tua dan karir selalu dilancarkan. Semoga Mas selalu berhasil memenangkan banyak mimpi yang Mas ceritakan. Aku akan selalu bangga atas setiap proses yang Mas lalui. Semoga Allah melapangkan hati Mas atas segala hal yang sebelumnya terasa berat dan mengecewakan. Aku minta maaf kalau bahasa cintaku terlalu sederhana untuk mendeskripsikan kamu yg istimewa.Semoga hal-hal baik selalu menjadi sahabat dalam keseharian Mas. Semoga segala usaha membahagiakan orang tua dan karir selalu dilancarkan. Semoga Mas selalu berhasil memenangkan banyak mimpi yang Mas ceritakan. Aku akan selalu bangga atas setiap proses yang Mas lalui. Semoga Allah melapangkan hati Mas atas segala hal yang sebelumnya terasa berat dan mengecewakan. Aku minta maaf kalau bahasa cintaku terlalu sederhana untuk mendeskripsikan kamu yg istimewa.",
-  "Semoga ini menjadi ulang tahun pertama dan selamanya bersama aku yaaa. Sehat dan bahagia selalu, Manusia baikku🫶🏻.",
+  "Happy Birthday Mas Tiar",
+  "Sayang, hari ini angka usiamu bertambah satu dan doaku turut serta memelukmu.",
+  "Terima kasih sudah menjadi rumah untuk aku. Terimakasih selalu membuat aku terasa mudah bahagia dan dicintai tanpa rasa rumit. Semoga Allah mengizinkan semesta untuk selalu menuntun, melindungi, dan menjagamu dimanapun Mas berada.",
+  "Semoga hatimu selalu diberi kekuatan, ketenangan, kebahagiaan yang tidak ada habisnya, dan dikelilingi cinta yang tak pernah ada batasnya.",
+  "Semoga hal-hal baik selalu menjadi sahabat dalam keseharian Mas. Semoga segala usaha membahagiakan orang tua dan karir selalu dilancarkan. Semoga Mas selalu berhasil memenangkan banyak mimpi yang Mas ceritakan. Aku akan selalu bangga atas setiap proses yang Mas lalui.",
+  "Semoga Allah melapangkan hati Mas atas segala hal yang sebelumnya terasa berat dan mengecewakan. Aku minta maaf kalau bahasa cintaku terlalu sederhana untuk mendeskripsikan kamu yg istimewa.",
+  "Semoga ini menjadi ulang tahun pertama dan selamanya bersama aku yaaa",
+  "Sehat dan bahagia selalu,Manusia baikku🫶🏻",
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -80,25 +84,25 @@ const MEMORIES = [
     depth: "2m",
     year:  "Chapter One",
     title: "Where It All Started",
-    text:  "Pernah suatu waktu aku memohon pada Tuhan untuk dipertemukan dengan seseorang yang piawai memahamiku. Lalu Tuhan menghadirkanmu, dengan cara yang tak pernah ku duga sebelumnya.",
+    text:  "That moment when everything just clicked and suddenly made sense.",
   },
   {
     depth: "8m",
     year:  "Chapter Two",
     title: "The Quiet Days",
-    text:  "Hari demi hari berganti, kamu semakin melengkapi separuhku, menggenapkan ganjilku",
+    text:  "Just you, me, and those simple moments that ended up meaning everything.",
   },
   {
     depth: "16m",
     year:  "Chapter Three",
     title: "Through the Storms",
-    text:  "Entah sudah berapa maaf yang saling kita lantunkan karena kita tak ingin sampai pada kehilangan",
+    text:  "We've had our rough days, but honestly, we always found our way back.",
   },
   {
     depth: "24m",
     year:  "Chapter Four",
     title: "Finding the Light",
-    text:  "Aku merasa beruntung punya kamu, rasanya bukan hanya menyenangkan, tapi juga menenangkan",
+    text:  "You're literally the brightest part of my journey, even in the deepest waters.",
   },
 ];
 
