@@ -84,25 +84,25 @@ const MEMORIES = [
     depth: "2m",
     year:  "Chapter One",
     title: "Where It All Started",
-    text:  "That moment when everything just clicked and suddenly made sense.",
+    text:  "Pernah suatu waktu aku memohon pada Tuhan untuk dipertemukan dengan seseorang yang piawai memahamiku. Lalu Tuhan menghadirkanmu, dengan cara yang tak pernah ku duga sebelumnya.",
   },
   {
     depth: "8m",
     year:  "Chapter Two",
     title: "The Quiet Days",
-    text:  "Just you, me, and those simple moments that ended up meaning everything.",
+    text:  "Hari demi hari berganti, kamu semakin melengkapi separuhku, menggenapkan ganjilku",
   },
   {
     depth: "16m",
     year:  "Chapter Three",
     title: "Through the Storms",
-    text:  "We've had our rough days, but honestly, we always found our way back.",
+    text:  "Entah sudah berapa maaf yang saling kita lantunkan karena kita tak ingin sampai pada kehilangan",
   },
   {
     depth: "24m",
     year:  "Chapter Four",
     title: "Finding the Light",
-    text:  "You're literally the brightest part of my journey, even in the deepest waters.",
+    text:  "Aku merasa beruntung punya kamu, rasanya bukan hanya menyenangkan, tapi juga menenangkan",
   },
 ];
 
