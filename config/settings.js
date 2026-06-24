@@ -14,13 +14,13 @@
    1. PIN MASUK
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    PIN 4–6 angka yang harus diketik tamu untuk membuka website.  */
-const WEBSITE_PIN = "1111";              // ← GANTI PIN
+const WEBSITE_PIN = "2506";              // ← GANTI PIN
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    2. NAMA PENERIMA
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    Nama yang muncul di halaman utama (hero).                      */
-const RECIPIENT_NAME = "Nabila";           // ← GANTI NAMA
+const RECIPIENT_NAME = "Tiar";           // ← GANTI NAMA
 
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
